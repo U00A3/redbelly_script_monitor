@@ -230,7 +230,7 @@ DNS names: redbelly-node.bloodmoon.ltd
 Valid until: 08/24 05:45:21PM '25 +0000
 
 🔑 Signing Address Information:
-Address: 0x12aa9a11683d4e06fb83978c482aed99cCdC9dD7
+Address: 0xXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 Balance: 999.999971428571532974 RBNT
 
 🔒 Permission Cache:

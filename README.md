@@ -15,24 +15,6 @@
 
 ---
 
-## 📋 Table of Contents
-
-- [✨ Features](#-features)
-- [🎯 What's New](#-whats-new)
-- [🔧 Prerequisites](#-prerequisites)
-- [📦 Installation](#-installation)
-- [🚀 Quick Start](#-quick-start)
-- [⚙️ Configuration](#️-configuration)
-- [📊 Monitoring Dashboard](#-monitoring-dashboard)
-- [🎛️ Command Line Options](#️-command-line-options)
-- [📈 Metrics Overview](#-metrics-overview)
-- [⚠️ Warning System](#️-warning-system)
-- [🛠️ Troubleshooting](#️-troubleshooting)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
-
----
-
 ## ✨ Features
 
 ### 🔍 **Comprehensive Monitoring**
@@ -57,31 +39,6 @@
 - 🔑 **Signing Address** - Balance monitoring with customizable thresholds
 - 📜 **Certificate Management** - Validity tracking and expiration alerts
 - 🛡️ **Permission System** - Access control and authorization tracking
-
----
-
-## 🎯 What's New
-
-<details>
-<summary><b>🚀 Version 2.0 - Major Update</b></summary>
-
-### 🆕 **New Features**
-- ✅ **Prometheus Integration** - Complete metrics parsing and analysis
-- ✅ **Enhanced UI** - Beautiful emoji-based interface with color coding
-- ✅ **Performance Monitoring** - CPU, memory, and system resource tracking
-- ✅ **Network Analytics** - Governor status, peer information, and network health
-- ✅ **Transaction Metrics** - Detailed transaction processing statistics
-- ✅ **Economic Data** - Live pricing and gas fee information
-- ✅ **Permission Tracking** - Cache performance and access control monitoring
-- ✅ **Recovery Information** - Node recovery status and statistics
-
-### 🔄 **Improvements**
-- 🎨 **Better Formatting** - Readable byte/time formatting (MB, GB, hours, etc.)
-- 🌍 **English Interface** - Full translation to English
-- 🛡️ **Error Handling** - Graceful degradation when metrics unavailable
-- ⚡ **Performance** - Optimized metric parsing and display
-
-</details>
 
 ---
 
@@ -123,12 +80,6 @@ chmod +x status.py
 # 4️⃣ Test connection
 python3 status.py --help
 ```
-
-### 🐳 **Docker Option** (Coming Soon)
-```bash
-docker run -it --rm redbelly/node-monitor:latest
-```
-
 ---
 
 ## 🚀 Quick Start
@@ -428,14 +379,6 @@ python3 status.py -a http://testnet-node:6539
 - ✅ Test with multiple node configurations
 
 ---
-
-## 📞 Support & Community
-
-### 💬 **Get Help**
-- 📧 **Issues**: [GitHub Issues](https://github.com/U00A3/redbelly_script_monitor/issues)
-- 💭 **Discussions**: [GitHub Discussions](https://github.com/U00A3/redbelly_script_monitor/discussions)
-- 🐦 **Twitter**: [@Redbelly_Network](https://twitter.com/redbelly_network)
-
 ### 🌟 **Show Your Support**
 If this tool helps you, please:
 - ⭐ **Star the repository**
@@ -459,10 +402,6 @@ Copyright (c) 2024 Redbelly Node Monitor Contributors
 <div align="center">
 
 **🔴 Made with ❤️ for the Redbelly Community**
-
-[![GitHub stars](https://img.shields.io/github/stars/U00A3/redbelly_script_monitor?style=social)](https://github.com/U00A3/redbelly_script_monitor/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/U00A3/redbelly_script_monitor?style=social)](https://github.com/U00A3/redbelly_script_monitor/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/U00A3/redbelly_script_monitor)](https://github.com/U00A3/redbelly_script_monitor/issues)
 
 *🚀 Happy Monitoring! 🚀*
 

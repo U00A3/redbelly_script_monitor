@@ -15,33 +15,6 @@
 
 ---
 
-## ✨ Features
-
-### 🔍 **Comprehensive Monitoring**
-- 📊 **Real-time Prometheus metrics** - Full access to all node performance data
-- 🧱 **Block Processing** - Track current blocks, synchronization status, and processing times
-- 🏛️ **Superblock Tracking** - Monitor superblock progression and bootnode sync
-- 🌐 **Network Status** - Governor count, node role, and network health
-- 💰 **Transaction Analytics** - Success/failure rates, gas usage, and pending transactions
-
-### ⚡ **Performance Insights**
-- 🖥️ **System Resources** - CPU usage, memory consumption, and file descriptor usage
-- 🔄 **Go Runtime Metrics** - Goroutines, garbage collection, and runtime statistics
-- 📈 **Processing Performance** - Average block processing times and wait periods
-- 🔒 **Permission Cache** - Cache hit rates and access patterns
-
-### 💎 **Market Integration**
-- 💵 **Live Pricing** - Real-time RBNT/USD exchange rates
-- ⛽ **Gas Fees** - Current gas pricing in USD
-- 📊 **Economic Metrics** - Transaction costs and network economics
-
-### 🔐 **Security & Certificates**
-- 🔑 **Signing Address** - Balance monitoring with customizable thresholds
-- 📜 **Certificate Management** - Validity tracking and expiration alerts
-- 🛡️ **Permission System** - Access control and authorization tracking
-
----
-
 ## 🔧 Prerequisites
 
 ### 🐍 **Python Requirements**

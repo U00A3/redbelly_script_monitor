@@ -142,7 +142,7 @@ python3 status.py
 python3 status.py -a http://your-node-ip:6539
 
 # Custom refresh rate and balance threshold
-python3 status.py -a http://157.180.48.42:6539 -mb 50 -r 15
+python3 status.py -a http://xxx.xxx.xx.xx:6539 -mb 50 -r 15
 ```
 
 ### 🎯 **One-liner Examples**
@@ -186,7 +186,7 @@ For remote monitoring, ensure firewall allows access to:
 ### 🎨 **Live Dashboard Example**
 
 ```
-🔴 Monitoring url http://157.180.48.42:6539/status
+🔴 Monitoring url http://xxx.xxx.xx.xx:6539/status
 
 📊 Sync Status:
 ✅ Node has completed initial sync
